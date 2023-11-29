@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# Bin directory for tools and compiled binaries
+bin/
+
+# licensei cache file
+.licensei.cache
